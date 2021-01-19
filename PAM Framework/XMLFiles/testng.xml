@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PAM Webkul">
+  <test name="PAM">
+    <classes>
+      <class name="com.pam.testcases.LoginPage_TestCase"></class>
+      <class name="com.pam.testcases.Dashboard_TestCase"></class>
+      <class name="com.pam.testcases.Platform_TestCase"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

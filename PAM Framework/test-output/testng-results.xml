@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="181861" started-at="2020-12-22T12:33:08Z" finished-at="2020-12-22T12:36:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="181861" started-at="2020-12-22T12:33:08Z" finished-at="2020-12-22T12:36:10Z">
+      <class name="com.pam.testcases.PlanPage_TestCase">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setupSuite" is-config="true" duration-ms="219" started-at="2020-12-22T12:33:08Z" finished-at="2020-12-22T12:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="13682" started-at="2020-12-22T12:33:08Z" finished-at="2020-12-22T12:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CancelButton_Test()[pri:1, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="CancelButton_Test" duration-ms="2469" started-at="2020-12-22T12:33:22Z" finished-at="2020-12-22T12:33:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CancelButton_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="1054" started-at="2020-12-22T12:33:24Z" finished-at="2020-12-22T12:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="2" started-at="2020-12-22T12:33:25Z" finished-at="2020-12-22T12:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="12943" started-at="2020-12-22T12:33:25Z" finished-at="2020-12-22T12:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ValidatePlan_PageTitle_Test()[pri:2, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="ValidatePlan_PageTitle_Test" duration-ms="15" started-at="2020-12-22T12:33:38Z" finished-at="2020-12-22T12:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatePlan_PageTitle_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="709" started-at="2020-12-22T12:33:38Z" finished-at="2020-12-22T12:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2020-12-22T12:33:39Z" finished-at="2020-12-22T12:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="13152" started-at="2020-12-22T12:33:39Z" finished-at="2020-12-22T12:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyheading_Test()[pri:3, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="verifyheading_Test" duration-ms="92" started-at="2020-12-22T12:33:52Z" finished-at="2020-12-22T12:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyheading_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="778" started-at="2020-12-22T12:33:52Z" finished-at="2020-12-22T12:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2020-12-22T12:33:53Z" finished-at="2020-12-22T12:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="12573" started-at="2020-12-22T12:33:54Z" finished-at="2020-12-22T12:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="plan_create(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="plan_create" duration-ms="1902" started-at="2020-12-22T12:34:06Z" data-provider="plan_details" finished-at="2020-12-22T12:34:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jh56]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Days]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan_create -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="685" started-at="2020-12-22T12:34:08Z" finished-at="2020-12-22T12:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="363" started-at="2020-12-22T12:34:09Z" finished-at="2020-12-22T12:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="12970" started-at="2020-12-22T12:34:09Z" finished-at="2020-12-22T12:34:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="plan_create(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="plan_create" duration-ms="12003" started-at="2020-12-22T12:34:22Z" data-provider="plan_details" finished-at="2020-12-22T12:34:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[957]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[63]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Monthly]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan_create -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="686" started-at="2020-12-22T12:34:34Z" finished-at="2020-12-22T12:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="64" started-at="2020-12-22T12:34:35Z" finished-at="2020-12-22T12:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="12334" started-at="2020-12-22T12:34:35Z" finished-at="2020-12-22T12:34:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="plan_create(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="plan_create" duration-ms="14195" started-at="2020-12-22T12:34:47Z" data-provider="plan_details" finished-at="2020-12-22T12:35:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[agra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Monthly]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Agra Plan]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan_create -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="675" started-at="2020-12-22T12:35:02Z" finished-at="2020-12-22T12:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="56" started-at="2020-12-22T12:35:02Z" finished-at="2020-12-22T12:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="14267" started-at="2020-12-22T12:35:02Z" finished-at="2020-12-22T12:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="plan_create(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="plan_create" duration-ms="3497" started-at="2020-12-22T12:35:17Z" data-provider="plan_details" finished-at="2020-12-22T12:35:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gurgaon]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gurga]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Days]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Gurgaon Plan]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan_create -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="682" started-at="2020-12-22T12:35:20Z" finished-at="2020-12-22T12:35:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="59" started-at="2020-12-22T12:35:21Z" finished-at="2020-12-22T12:35:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="15050" started-at="2020-12-22T12:35:21Z" finished-at="2020-12-22T12:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Plan_Update(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="Plan_Update" duration-ms="15116" started-at="2020-12-22T12:35:36Z" data-provider="plan_details12" finished-at="2020-12-22T12:35:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[noida456789]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pol5896]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Monthly]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Ishan_new_test]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Plan_Update -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="699" started-at="2020-12-22T12:35:51Z" finished-at="2020-12-22T12:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="84" started-at="2020-12-22T12:35:52Z" finished-at="2020-12-22T12:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="setup" is-config="true" duration-ms="14930" started-at="2020-12-22T12:35:52Z" finished-at="2020-12-22T12:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Plan_Delete()[pri:6, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="Plan_Delete" duration-ms="2533" started-at="2020-12-22T12:36:07Z" finished-at="2020-12-22T12:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Plan_Delete -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDown" is-config="true" duration-ms="675" started-at="2020-12-22T12:36:09Z" finished-at="2020-12-22T12:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.pam.testcases.PlanPage_TestCase@6eebc39e]" name="tearDownMethod" is-config="true" duration-ms="65" started-at="2020-12-22T12:36:10Z" finished-at="2020-12-22T12:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.pam.testcases.PlanPage_TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
